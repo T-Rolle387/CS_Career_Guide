@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Handles all non-specific responses -->
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>
+        I'm sorry, I am unable to help you with that.
+        <button>
+            <text>
+                Main Menu
+            </text>
+            <postback>main</postback>
+        </button>
+        </template>
+  </category>
+  
+</aiml>

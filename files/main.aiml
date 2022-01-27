@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- Initial menu -->
+	<category>
+	    <pattern><set>salutation</set></pattern>
+	    <template>
+	        
+	        Hi there! I offer career guidance to students studying computer science at WGU.👩‍💻<br></br>
+	        What can I help you with today?<br></br>
+	        Please click on one of the following options below.
+	       <button>
+	           <text>✅Career Quiz  </text>
+	           <postback>quiz</postback>
+           </button>
+           <button>
+               <text>💻 View All Career Options</text>
+               <postback>viewall</postback>
+           </button>
+	    </template>
+    </category>
+    
+    <!-- Main menu -->
+    <category>
+        <pattern>main</pattern>
+        <template>
+            Welcome! I offer career guidance to students studying computer science at WGU.👨‍💻<br></br>
+            What can I help you with today?<br></br>
+            Please click on one of the following options below.
+            <button>
+	           <text>✅Career Quiz  </text>
+	           <postback>quiz</postback>
+           </button>
+           <button>
+               <text>💻 View All Career Options</text>
+               <postback>viewall</postback>
+           </button>
+        </template>
+    </category>
+</aiml>

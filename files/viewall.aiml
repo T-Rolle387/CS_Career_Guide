@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- All available career options displayed here -->
+	<category>
+	    <pattern>viewall</pattern>
+	    <template>
+	        
+	        Please click on the links below to view more information on the following career choices: <br></br>
+	        
+	        <link>
+              <text>Software Engineer</text>
+              <url>https://www.flexjobs.com/blog/post/what-does-a-software-engineer-do/</url>
+          </link>
+          
+          <link>
+                <text>Machine Learning Engineer</text>
+                <url>https://in.springboard.com/blog/machine-learning-jobs-description/</url>
+            </link>
+        
+        <link>
+                <text>UX Designer</text>
+                <url>https://www.careerexplorer.com/careers/ux-designer/</url>
+            </link>
+           
+        <link>
+                <text>UX Researcher</text>
+                <url>https://www.coursera.org/articles/what-is-a-ux-researcher-how-to-get-the-job</url>
+            </link>
+            
+        <link>
+                <text>Technical Product Manager</text>
+                <url>https://www.careerexplorer.com/careers/technical-product-manager/</url>
+            </link>
+            
+            <image>https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720_960_720.jpg</image>
+            
+            <button>
+            <text>Go back to the main menu🔙 </text>
+            <postback>main</postback>
+        </button>
+            
+	    </template>
+    </category>
+</aiml>
