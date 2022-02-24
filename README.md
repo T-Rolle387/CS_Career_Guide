@@ -13,6 +13,7 @@ View All Career Options: This selection provides a link to more information on a
 Both processes are instituted to reduce the appointment load from students seeking career advice.
 
 Screenshot of "View All" menu:
+
 ![all_career_choices](https://user-images.githubusercontent.com/79055002/155602488-8a98b03d-261a-4899-8321-a47569b8fdc4.png)
 
 
