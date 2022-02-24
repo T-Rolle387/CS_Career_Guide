@@ -4,8 +4,17 @@ Purpose:
 The purpose of the chatbot I designed was to lessen the workload of the career advisors by giving computer science students career advice based on their preferences and strengths. It identifies five job types that require an undergraduate degree in computer science. Users can take a career quiz or scroll through a list of links to see if a particular career strikes their interest.
 Processes and Features:
 Career Quiz: The career quiz offers students personalized career advice based on strengths and preferences the students choose via quiz options. At the end of the quiz, a career suited for the user is displayed as a link provided with more information for the user to explore. 
+
+Career Quiz Screenshot:
+
+![Screenshot (69)](https://user-images.githubusercontent.com/79055002/155602688-428fcb4b-2143-4d5f-989f-8381e05561e7.png)
+
 View All Career Options: This selection provides a link to more information on all five career options for the student to explore. After exploring the presented options, the user is presented with a button to return to the main menu.
 Both processes are instituted to reduce the appointment load from students seeking career advice.
+
+Screenshot of "View All" menu:
+![all_career_choices](https://user-images.githubusercontent.com/79055002/155602488-8a98b03d-261a-4899-8321-a47569b8fdc4.png)
+
 
 B: COMPUTING JOB TYPES
 The following job types are displayed based on the user’s selection:
